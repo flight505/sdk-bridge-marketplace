@@ -1,6 +1,7 @@
 ---
 description: "Hand off current work to SDK agent for autonomous execution"
 argument-hint: ""
+allowed-tools: ["Task", "Bash", "Read", "TodoWrite"]
 ---
 
 # Hand Off to SDK Agent

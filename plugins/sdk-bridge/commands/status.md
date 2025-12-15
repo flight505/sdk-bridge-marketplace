@@ -1,6 +1,7 @@
 ---
 description: "Check SDK agent progress"
 argument-hint: ""
+allowed-tools: ["Bash", "Read"]
 ---
 
 # Check SDK Agent Status

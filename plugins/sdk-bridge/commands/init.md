@@ -1,6 +1,7 @@
 ---
 description: "Initialize project for SDK bridge (creates state files, validates harness)"
 argument-hint: "[project-dir]"
+allowed-tools: ["Bash", "Read", "Write"]
 ---
 
 # Initialize Project for SDK Bridge

@@ -1,6 +1,7 @@
 ---
 description: "Resume CLI interaction after SDK agent completes"
 argument-hint: ""
+allowed-tools: ["Task", "Bash", "Read", "TodoWrite"]
 ---
 
 # Resume After SDK Agent Completion

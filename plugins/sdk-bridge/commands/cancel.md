@@ -1,6 +1,7 @@
 ---
 description: "Stop running SDK agent"
 argument-hint: ""
+allowed-tools: ["Bash", "Read", "Write"]
 ---
 
 # Cancel Running SDK Agent
